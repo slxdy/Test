@@ -31,7 +31,7 @@ jobs:
         with:
           body_path: RELEASE-NOTES.md
           files: |
-            Output/*
+            Output/HelloWorld.exe
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
