@@ -31,4 +31,4 @@ jobs:
         with:
           body_path: RELEASE-NOTES.md
           files: |
-            Output/HelloWorld.exe
+            Output/HelloWorld.dll
